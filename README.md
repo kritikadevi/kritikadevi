@@ -105,7 +105,7 @@ Worked on **WebShield**, a Python-based tool for automating repetitive web secur
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### MITR
 **Real-Time Community Communication Platform**
@@ -130,7 +130,7 @@ View Repository →
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### WebShield
 **Web Vulnerability Assessment Tool**
@@ -155,17 +155,32 @@ View Repository →
 
 </td>
 
-</tr>
-</table>
+<td width="33%" valign="top">
 
 ### Nest Quest
 **Property Listing & Booking Platform**
 
 `Node.js` `Express.js` `MongoDB` `REST APIs`
 
-- Developed backend APIs for property listings, users, and bookings.
-- Implemented authentication, authorization, and role-based access control.
-- Designed booking and property-management workflows with MongoDB persistence.
+A backend-focused property listing and booking platform with authentication and role-based workflows.
+
+**Key Features**
+
+- Property listing APIs
+- User & booking management
+- Authentication & authorization
+- Role-based access control
+- MongoDB persistence
+- RESTful API architecture
+
+<a href="YOUR_NESTQUEST_REPO">
+View Repository →
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -194,8 +209,6 @@ View Repository →
 </div>
 
 ---
-
-## GitHub Activity
 
 ## GitHub Activity
 
