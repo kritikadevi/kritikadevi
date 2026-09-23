@@ -1,11 +1,18 @@
-
 <!-- ========================================================= -->
 <!--                         HEADER                            -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Kritika+Devi;Software+Developer+%7C+Java+%7C+MERN+%7C+DSA" />
+<h1>Hi 👋, I'm Kritika Devi</h1>
+
+<p>
+  <b>Software Developer | Java | MERN | DSA | Backend Development</b>
+</p>
+
+<p>
+  Final-year B.Tech Information Technology student at NIT Srinagar
+</p>
 
 <p>
   <a href="https://www.linkedin.com/in/kritika-d-873439319/">
@@ -34,11 +41,11 @@ My current technical focus includes **Java, Data Structures & Algorithms, MERN s
 
 I enjoy understanding how systems work and turning practical problems into reliable software solutions.
 
-- 🎓 B.Tech — Information Technology, NIT Srinagar
-- 💻 Java | JavaScript | Python | SQL
-- 🌐 MERN Stack | REST APIs | Socket.IO
-- 🧠 300+ DSA problems solved
-- 🔐 Cybersecurity Intern — DRDO SSPL
+- B.Tech — Information Technology, NIT Srinagar
+- Java | JavaScript | Python | SQL
+- MERN Stack | REST APIs | Socket.IO
+- 300+ DSA problems solved
+- Cybersecurity Intern — DRDO SSPL
 
 ---
 
@@ -47,40 +54,49 @@ I enjoy understanding how systems work and turning practical problems into relia
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,python&theme=dark"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### Development
+### Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark"/>
-<img src="https://img.shields.io/badge/REST%20APIs-1F6FEB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-1F6FEB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman&theme=dark"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 </p>
 
-### Core CS
+### Core Computer Science
 
 <p>
-<img src="https://img.shields.io/badge/DSA-1F6FEB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OOP-1F6FEB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DBMS-1F6FEB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Operating%20Systems-1F6FEB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Networks-1F6FEB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA-1F6FEB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-1F6FEB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DBMS-1F6FEB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Operating%20Systems-1F6FEB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Networks-1F6FEB?style=for-the-badge"/>
 </p>
 
 ---
@@ -88,6 +104,7 @@ I enjoy understanding how systems work and turning practical problems into relia
 ## Experience
 
 ### Cybersecurity Intern — DRDO SSPL
+
 **Dec 2025 – Feb 2026**
 
 Worked on **WebShield**, a Python-based tool for automating repetitive web security assessment tasks.
@@ -101,70 +118,63 @@ Worked on **WebShield**, a Python-based tool for automating repetitive web secur
 
 ## Selected Projects
 
-<table>
-<tr>
+### MITR — Real-Time Community Communication Platform
 
-<td width="50%" valign="top">
+**Node.js · Express.js · MongoDB · Socket.IO · JWT · Docker**
 
-### MITR
-**Real-Time Community Communication Platform**
+A real-time community communication platform focused on reliable user-to-user communication.
 
-`Node.js` `Express.js` `MongoDB` `Socket.IO` `JWT` `Docker`
+**Key Work**
 
-A real-time community communication platform designed around reliable user-to-user communication.
+- Implemented JWT-based authentication.
+- Implemented real-time messaging using Socket.IO.
+- Added message delivery and read status.
+- Worked on media sharing and user presence tracking.
+- Developed REST APIs for application functionality.
+- Containerized services using Docker.
+- Deployed the application on Render.
 
-**Key Features**
+<p>
+  <a href="YOUR_MITR_REPO">
+    <img src="https://img.shields.io/badge/View%20MITR%20Repository-1F6FEB?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-- JWT-based authentication
-- Real-time messaging with Socket.IO
-- Message delivery and read status
-- Media sharing and presence tracking
-- REST APIs
-- Dockerized services
-- Render deployment
+---
 
-<a href="YOUR_MITR_REPO">
-View Repository →
-</a>
+### WebShield — Web Vulnerability Assessment Tool
 
-</td>
+**Python · BeautifulSoup · Networking · Web Security**
 
-<td width="50%" valign="top">
+A Python-based security assessment tool worked on during my DRDO SSPL internship.
 
-### WebShield
-**Web Vulnerability Assessment Tool**
+**Key Work**
 
-`Python` `BeautifulSoup` `Networking` `Cybersecurity`
+- Worked on URL processing and website crawling.
+- Extracted links and forms for assessment.
+- Implemented DNS/IP resolution.
+- Worked on HTTP security header checks.
+- Implemented basic SQL injection and XSS checks.
+- Contributed to vulnerability risk classification.
+- Worked on structured PDF vulnerability reports.
 
-A Python-based security assessment tool developed during my DRDO SSPL internship.
+<p>
+  <a href="YOUR_WEBSHIELD_REPO">
+    <img src="https://img.shields.io/badge/View%20WebShield%20Repository-1F6FEB?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-**Key Features**
+---
 
-- URL processing and website crawling
-- Link and form extraction
-- DNS/IP resolution
-- HTTP security header checks
-- Basic SQLi/XSS checks
-- Risk classification
-- PDF vulnerability reports
+### Nest Quest — Property Listing & Booking Platform
 
-<a href="YOUR_WEBSHIELD_REPO">
-View Repository →
-</a>
-
-</td>
-
-</tr>
-</table>
-
-### Nest Quest
-**Property Listing & Booking Platform**
-
-`Node.js` `Express.js` `MongoDB` `REST APIs`
+**Node.js · Express.js · MongoDB · REST APIs**
 
 - Developed backend APIs for property listings, users, and bookings.
-- Implemented authentication, authorization, and role-based access control.
-- Designed booking and property-management workflows with MongoDB persistence.
+- Implemented authentication and authorization.
+- Added role-based access control.
+- Designed booking and property-management workflows.
+- Used MongoDB for persistent application data.
 
 ---
 
@@ -172,23 +182,23 @@ View Repository →
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/300%2B-DSA%20Problems%20Solved-1F6FEB?style=for-the-badge"/>
+<h3>300+ Data Structures & Algorithms Problems Solved</h3>
 
-<br><br>
+<p>
+  <img src="https://img.shields.io/badge/Arrays-1F6FEB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Strings-1F6FEB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Linked%20Lists-1F6FEB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Binary%20Search-1F6FEB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Sorting-1F6FEB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/BST-1F6FEB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Recursion-1F6FEB?style=flat-square"/>
+</p>
 
-<img src="https://img.shields.io/badge/Arrays-1F6FEB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Strings-1F6FEB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Linked%20Lists-1F6FEB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Binary%20Search-1F6FEB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Sorting-1F6FEB?style=flat-square"/>
-<img src="https://img.shields.io/badge/BST-1F6FEB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Recursion-1F6FEB?style=flat-square"/>
-
-<br><br>
-
-<a href="https://codolio.com/profile/kiu">
-<img src="https://img.shields.io/badge/View%20DSA%20Profile-Codolio-111827?style=for-the-badge"/>
-</a>
+<p>
+  <a href="https://codolio.com/profile/kiu">
+    <img src="https://img.shields.io/badge/View%20DSA%20Profile-Codolio-111827?style=for-the-badge"/>
+  </a>
+</p>
 
 </div>
 
@@ -206,7 +216,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritikadevi&
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=kritikadevi&theme=github-dark-blue&hide_border=true"/>
+<img
+src="https://streak-stats.demolab.com?user=kritikadevi&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
@@ -218,14 +229,15 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritikadevi&
 
 <a href="https://leetcode.com/Kiu_012/">
 
-<img src="https://leetcard.jacoblin.cool/Kiu_012?theme=dark&font=Baloo&ext=heatmap"/>
+<img
+src="https://leetcard.jacoblin.cool/Kiu_012?theme=dark&font=Baloo&ext=heatmap"/>
 
 </a>
 
 <br><br>
 
 <a href="https://leetcode.com/Kiu_012/">
-<img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </div>
@@ -246,15 +258,19 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritikadevi&
 <div align="center">
 
 <a href="https://www.linkedin.com/in/kritika-d-873439319/">
-<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://codolio.com/profile/kiu">
-<img src="https://img.shields.io/badge/Codolio-DSA%20Profile-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Codolio-DSA%20Profile-111827?style=for-the-badge"/>
 </a>
 
 <a href="https://leetcode.com/Kiu_012/">
-<img src="https://img.shields.io/badge/LeetCode-Kiu__012-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode-Kiu__012-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kritikadevi">
+  <img src="https://img.shields.io/badge/GitHub-kritikadevi-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
